@@ -9,7 +9,7 @@ Upgrades in version 3:
 3. Visual highlight on the LED control buttons: now, the active button is highlighted in green, making it easier to identify the current state of the LED.
 
 These improvements make the application more robust, informative, and visually clear for the user, providing an enhanced experience in controlling the LED via Wi-Fi using the ESP32.
-
+#
 ### Portuguese version:
 
 Upgrades da versão 3:
