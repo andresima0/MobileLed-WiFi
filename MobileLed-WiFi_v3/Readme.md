@@ -1,6 +1,6 @@
 # MobileLed-WiFi_v3
 
-Upgrades in version 3:
+### Upgrades in version 3:
 
 1. Implementation of the mandatory requirement for the IP address to connect to the ESP32, with display of a Toast.
 
@@ -12,7 +12,7 @@ These improvements make the application more robust, informative, and visually c
 #
 ### Portuguese version:
 
-Upgrades da versão 3:
+### Upgrades da versão 3:
 
 1. Implementação do requerimento obrigatório do endereço IP para conexão com o ESP32, com exibição de uma Toast.
 
