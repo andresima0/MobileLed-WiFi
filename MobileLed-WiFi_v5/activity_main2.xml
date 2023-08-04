@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <Button
+        android:id="@+id/buttonLed01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="265dp"
+        android:text="LED 01" />
+
+    <Button
+        android:id="@+id/buttonLed02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonLed01"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="LED 02" />
+
+    <Button
+        android:id="@+id/buttonLed03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonLed02"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="LED 03" />
+
+
+</RelativeLayout>
